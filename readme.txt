@@ -1,4 +1,4 @@
-This file describes how cleaningData.R script works.
+This file describes how run_analysis.R script works.
 
 * Download the data needed for the data cleaning exercise from below link.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
